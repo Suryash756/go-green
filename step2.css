@@ -1,0 +1,30 @@
+#dis{
+    background-color: #85FFBD;
+    background: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+    margin-left:10px;
+    margin-right:10px;
+    border:solid;
+    margin-bottom:20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#go{
+    color:black;
+    text-decoration: underline;
+    font-size:30px;
+    font-weight:bold;
+    
+}
+h2{
+        font-size:25px;
+        font-weight:bold;
+        border:solid;
+        margin-left:10px;
+        margin-right:10px;
+        background-color: silver;
+       
+
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+button{
+    margin-top:30px;
+}
